@@ -1,0 +1,124 @@
+body{
+     margin:0;
+     font-family:"Georgia","Times New Roman","Times",serif;
+}
+
+.wrapper{
+         width:960px;
+         margin:0 auto;
+}
+
+.clear{clear:both;}
+
+#phonebar{
+          background-color:#343434;
+          color:#b0b0b0;
+          font-size:12px;
+          padding:8px 0;
+          text-align:right;
+}
+
+header{
+       background-color:#e6e6e6;
+       padding:25px 0;
+       text-shadow:0 4px 0 white;
+}
+
+header img{
+          font-weight:normal;
+          color:#696969;
+          font-size:34px;
+          margin:0;
+          float:left;
+       }
+	   
+       h1{
+          font-weight:normal;
+          color:#696969;
+          font-size:34px;
+          margin:0;
+          float:left;
+		  display:none;
+       }
+      nav ul{margin:0;}
+       
+	
+	   
+       nav{float:right;}
+       
+       a{
+          list-style-type:none;
+          float:left;
+          margin-left:25px;
+          color:#5a5a5a;
+          font-size:14px;
+          font-weight:bold;
+          padding-top:7px;
+          text-shadow:0 2px 0 white;
+		  display:inline-block;
+       }
+
+#left{
+      float:left;
+      width:510px
+  }
+
+      #left h1{
+            float:none;}
+
+       #left p{
+             color:#7f7f7f;
+             font-size:14px;
+             line-height:30px;
+       }
+
+   #important   img{
+        float:right;
+        background-color:white;
+        padding:10px;
+        border:2px solid #aaaaaa;
+        border-radius:8px;
+        box-shadow:8px 12px 20px black;
+         }
+
+
+
+#important{
+           padding:40px 0;
+		   display:flex;
+}
+
+
+#moreinfo{
+          background-color:#343434;
+          padding:15px 0;
+}
+
+.col{
+     float:left;
+     width:280px;
+     margin-right:40px;
+}
+     .col h2{
+       color:#b0b0b0;
+       font-size:24px;
+       font-weight:normal;
+
+     }
+	 
+	 .col p{color:#b0b0b0;}
+
+footer{
+       background-color:#252525;
+       color:#b0b0b0;
+       font-size:12px;
+       padding:15px 0;
+}
+
+       footer span{
+            float:right;
+       }
+
+
+
+
